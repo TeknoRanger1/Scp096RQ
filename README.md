@@ -44,5 +44,5 @@ scp096_rage_quit:
     FragGrenade: true
     Scp018: true
     Scp2176: true
-  # If true, spawns projectiles in an aura pattern around SCP-096 instead of a single directional throw.
+  # It's useless but aura!
   is_aura: true
