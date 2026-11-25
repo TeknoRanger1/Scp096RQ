@@ -31,7 +31,7 @@ namespace Scp096RageQuit.Plugin
         }
 
         private static MainConfig Config => MainPlugin.Instance?.Config;
-        
+
         private static void OnPlayerDying(DyingEventArgs ev)
         {
             if (ev.Player.Role == RoleTypeId.Scp096)
